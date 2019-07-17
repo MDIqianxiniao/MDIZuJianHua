@@ -504,6 +504,7 @@
 			baseConfigurationReference = BA0E1363DF2A621628B84B5B /* Pods-MDIZuJianHua_Example.debug.xcconfig */;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				DEVELOPMENT_TEAM = "";
 				GCC_PRECOMPILE_PREFIX_HEADER = YES;
 				GCC_PREFIX_HEADER = "MDIZuJianHua/MDIZuJianHua-Prefix.pch";
 				INFOPLIST_FILE = "MDIZuJianHua/MDIZuJianHua-Info.plist";
@@ -520,6 +521,7 @@
 			baseConfigurationReference = E0D80EF05360A08B51782AE8 /* Pods-MDIZuJianHua_Example.release.xcconfig */;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				DEVELOPMENT_TEAM = "";
 				GCC_PRECOMPILE_PREFIX_HEADER = YES;
 				GCC_PREFIX_HEADER = "MDIZuJianHua/MDIZuJianHua-Prefix.pch";
 				INFOPLIST_FILE = "MDIZuJianHua/MDIZuJianHua-Info.plist";

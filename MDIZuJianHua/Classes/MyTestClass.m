@@ -10,7 +10,7 @@
 @implementation MyTestClass
 -(void)myTestMethod{
     
-    NSLog("打印店什么吧");
+    NSLog(@"打印店什么吧");
     
 }
 @end
