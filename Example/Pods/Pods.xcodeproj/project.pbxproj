@@ -7,8 +7,8 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		04C5C94522DEFDAA00499780 /* MyView.h in Headers */ = {isa = PBXBuildFile; fileRef = 04C5C94322DEFDAA00499780 /* MyView.h */; };
-		04C5C94622DEFDAA00499780 /* MyView.m in Sources */ = {isa = PBXBuildFile; fileRef = 04C5C94422DEFDAA00499780 /* MyView.m */; };
+		04C5C94922DF040000499780 /* MyView.h in Headers */ = {isa = PBXBuildFile; fileRef = 04C5C94722DF040000499780 /* MyView.h */; };
+		04C5C94A22DF040000499780 /* MyView.m in Sources */ = {isa = PBXBuildFile; fileRef = 04C5C94822DF040000499780 /* MyView.m */; };
 		04DDA06622DED51400DC831E /* MyTestClass.h in Headers */ = {isa = PBXBuildFile; fileRef = 04DDA06422DED51300DC831E /* MyTestClass.h */; };
 		04DDA06722DED51400DC831E /* MyTestClass.m in Sources */ = {isa = PBXBuildFile; fileRef = 04DDA06522DED51400DC831E /* MyTestClass.m */; };
 		051A816D6DD0CAE13496DDCFE0829167 /* UIImage+Diff.h in Headers */ = {isa = PBXBuildFile; fileRef = 85E250EF19C5B5671AEC10BEB508D087 /* UIImage+Diff.h */; settings = {ATTRIBUTES = (Private, ); }; };
@@ -68,8 +68,8 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
-		04C5C94322DEFDAA00499780 /* MyView.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = MyView.h; sourceTree = "<group>"; };
-		04C5C94422DEFDAA00499780 /* MyView.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = MyView.m; sourceTree = "<group>"; };
+		04C5C94722DF040000499780 /* MyView.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = MyView.h; path = MDIZuJianHua/Classes/MyView.h; sourceTree = "<group>"; };
+		04C5C94822DF040000499780 /* MyView.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = MyView.m; path = MDIZuJianHua/Classes/MyView.m; sourceTree = "<group>"; };
 		04DDA06422DED51300DC831E /* MyTestClass.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = MyTestClass.h; path = MDIZuJianHua/Classes/MyTestClass.h; sourceTree = "<group>"; };
 		04DDA06522DED51400DC831E /* MyTestClass.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = MyTestClass.m; path = MDIZuJianHua/Classes/MyTestClass.m; sourceTree = "<group>"; };
 		052258A488A96C35531FAC73C4F42924 /* FBSnapshotTestController.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = FBSnapshotTestController.m; path = FBSnapshotTestCase/FBSnapshotTestController.m; sourceTree = "<group>"; };
@@ -287,8 +287,8 @@
 			children = (
 				04DDA06422DED51300DC831E /* MyTestClass.h */,
 				04DDA06522DED51400DC831E /* MyTestClass.m */,
-				04C5C94322DEFDAA00499780 /* MyView.h */,
-				04C5C94422DEFDAA00499780 /* MyView.m */,
+				04C5C94722DF040000499780 /* MyView.h */,
+				04C5C94822DF040000499780 /* MyView.m */,
 				1DE7CC391A32630F0AF38BA5F341731B /* Pod */,
 				F83EB6E005E349F1E5253E8462A24A9D /* Support Files */,
 			);
@@ -382,7 +382,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				93DA3148C5C7D021DA9FFA5E03BEC7BC /* MDIZuJianHua-umbrella.h in Headers */,
-				04C5C94522DEFDAA00499780 /* MyView.h in Headers */,
+				04C5C94922DF040000499780 /* MyView.h in Headers */,
 				04DDA06622DED51400DC831E /* MyTestClass.h in Headers */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -528,7 +528,7 @@
 			files = (
 				04DDA06722DED51400DC831E /* MyTestClass.m in Sources */,
 				D1543D9EF8063CA612C86BA31AAC5CD0 /* MDIZuJianHua-dummy.m in Sources */,
-				04C5C94622DEFDAA00499780 /* MyView.m in Sources */,
+				04C5C94A22DF040000499780 /* MyView.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
