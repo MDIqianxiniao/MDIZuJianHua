@@ -9,10 +9,13 @@
 #import "MDIViewController.h"
 
 @interface MDIViewController ()
-
+///模型
+@property (nonatomic,strong)NSMutableArray *mutArr;
 @end
 
 @implementation MDIViewController
+
+
 
 - (void)viewDidLoad
 {
