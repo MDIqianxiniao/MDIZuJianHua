@@ -7,6 +7,7 @@
 //
 
 #import "MDIViewController.h"
+#import "MyView.h"
 
 @interface MDIViewController ()
 ///模型
@@ -21,6 +22,11 @@
 {
     [super viewDidLoad];
 	// Do any additional setup after loading the view, typically from a nib.
+    
+    MyView * view = [[MyView alloc]initWithFrame:CGRectMake(10, 10, 400, 500)];
+
+    [self.view addSubview:view];
+    
 }
 
 - (void)didReceiveMemoryWarning

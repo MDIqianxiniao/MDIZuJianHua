@@ -10,6 +10,8 @@
 #endif
 #endif
 
+#import "MyTestClass.h"
+#import "MyView.h"
 
 FOUNDATION_EXPORT double MDIZuJianHuaVersionNumber;
 FOUNDATION_EXPORT const unsigned char MDIZuJianHuaVersionString[];

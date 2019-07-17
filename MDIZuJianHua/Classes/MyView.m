@@ -21,7 +21,7 @@
     if (self) {
         
         self.backgroundColor = [UIColor yellowColor];
-        
+        [self setUp];
     }
     return self;
 }

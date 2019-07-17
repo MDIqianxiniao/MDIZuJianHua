@@ -1,8 +1,8 @@
 {
   "name": "MDIZuJianHua",
-  "version": "0.1.0",
-  "summary": "A short description of MDIZuJianHua.",
-  "description": "TODO: Add long description of the pod here.",
+  "version": "0.0.5",
+  "summary": "A short description of MDIZuJianHua23.",
+  "description": "<<-DESC\nTODO: Add long description of the pod here.\n                       DESCclkcllc",
   "homepage": "https://github.com/MDIqianxiniao/MDIZuJianHua",
   "license": {
     "type": "MIT",
@@ -13,7 +13,7 @@
   },
   "source": {
     "git": "https://github.com/MDIqianxiniao/MDIZuJianHua.git",
-    "tag": "0.1.0"
+    "tag": "0.0.5"
   },
   "platforms": {
     "ios": "8.0"
