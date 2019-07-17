@@ -1,0 +1,6 @@
+framework module Pods_MDIZuJianHua_Example {
+  umbrella header "Pods-MDIZuJianHua_Example-umbrella.h"
+
+  export *
+  module * { export * }
+}
